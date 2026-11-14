@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ChairView</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 14 Nov 2026 07:50:03 -0800</pubDate>
+            <sparkle:version>20261114.0749</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sagehumphries/ChairView-releases/releases/download/v1.1/ChairView-1.1.zip" length="1796658" type="application/octet-stream" sparkle:edSignature="7itcc/yoqMJHOrXXCebOPp4RED0mvCgifJmladICa+EnDd++h1GV3SWHhfc9FBFzLElRvd4fsVC4J2lFC5XvCQ=="/>
+        </item>
+    </channel>
+</rss>
