@@ -3,12 +3,12 @@
     <channel>
         <title>ChairView</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Sat, 14 Nov 2026 07:50:03 -0800</pubDate>
-            <sparkle:version>20261114.0749</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Tue, 17 Nov 2026 15:26:05 -0800</pubDate>
+            <sparkle:version>20261117.1525</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sagehumphries/ChairView-releases/releases/download/v1.1/ChairView-1.1.zip" length="1796658" type="application/octet-stream" sparkle:edSignature="7itcc/yoqMJHOrXXCebOPp4RED0mvCgifJmladICa+EnDd++h1GV3SWHhfc9FBFzLElRvd4fsVC4J2lFC5XvCQ=="/>
+            <enclosure url="https://github.com/sagehumphries/ChairView-releases/releases/download/v1.2/ChairView-1.2.zip" length="1842953" type="application/octet-stream" sparkle:edSignature="rfUegOHNRUex5iFb2BqDrFW1LbYucUBeqZjGzO2wY1xgyweKxgDNhu/7EAKNk/N9Po5YAJoQQ5dHlYTLaxCIDA=="/>
         </item>
     </channel>
 </rss>
